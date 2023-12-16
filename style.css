@@ -1,0 +1,41 @@
+body{
+    background-color: whitesmoke;
+}
+a{
+    font-size: larger;
+    font-weight: bold;
+}
+header {
+    display: flex;
+    margin-left: 90px;
+    margin-right: 90px;
+    justify-content: space-between;
+}
+
+nav {
+    display: flex;
+    gap: 80px;
+}
+
+a {
+    padding-top: 7px;
+    font-weight: bold;
+}
+
+.login {
+    background-color: black;
+    color: white;
+    padding: 12px;
+    border-radius: 8px;
+    border: none;
+}
+h1 {
+	color: blue;
+	font-family: roboto;
+	text-align: center;
+}
+p{
+    color: blue;
+	font-family: roboto;
+	text-align: left;
+}
